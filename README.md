@@ -1,0 +1,1 @@
+This provides the samples of Kafka provider and consumer setup and different synchronization setup.
