@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Maven:org.apache.kafka:kafka-clients-0.10.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/Java/Libreries/kafka-clients-0.10.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
